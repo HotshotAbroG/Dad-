@@ -1,2 +1,3 @@
-# Dad-
-Do not use it!!!!!! For your life
+# 你就用吧
+直接运行 zsa.py缺啥库装啥，不会用就看我发的手册就可以，很简单
+
